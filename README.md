@@ -3,7 +3,7 @@
 ## List of Programs
   1. Write a Java program to check if a number is palindrome.
   
-  2. Write a program to print the following structure. 
+  2. Write a program to print the following structure.<br> 
     *<br>
     ***<br>
     *****<br>
